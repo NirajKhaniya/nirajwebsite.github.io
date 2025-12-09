@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+nirajkhaniya07@gmail.com
 
 Phone
-+1 (213) 352-2795
++9779864065482
 
 Birthday
-June 23, 1982
+September 15, 2004
 
 Location
-Sacramento, California, USA
+Nepal
 
 # navbar
 
