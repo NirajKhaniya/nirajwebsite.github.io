@@ -69,7 +69,7 @@ const Contact: React.FC = () => {
                           <Phone className="mr-4 mt-1 flex-shrink-0" />
                           <div>
                             <p className="font-semibold text-orange-100 text-sm uppercase">Phone</p>
-                            <p className="text-lg">+977 9843-298530</p>
+                            <p className="text-lg">+977 9864065482</p>
                           </div>
                        </div>
                        <div className="flex items-start">
@@ -83,7 +83,7 @@ const Contact: React.FC = () => {
                           <MapPin className="mr-4 mt-1 flex-shrink-0" />
                           <div>
                             <p className="font-semibold text-orange-100 text-sm uppercase">Address</p>
-                            <p className="text-lg">Kathmandu, Nepal</p>
+                            <p className="text-lg">Chitwan, Nepal</p>
                           </div>
                        </div>
                     </div>
