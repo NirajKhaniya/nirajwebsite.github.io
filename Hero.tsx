@@ -5,7 +5,7 @@ import ParticleNetwork from './ParticleNetwork';
 
 const Hero: React.FC = () => {
   const [textIndex, setTextIndex] = useState(0);
-  const words = ["Accounting", "Photography", "Trekking", "Coding"];
+  const words = ["Auditor", "BBA Student", "Photographer"];
   const [currentWord, setCurrentWord] = useState("");
   const [isDeleting, setIsDeleting] = useState(false);
   const [typingSpeed, setTypingSpeed] = useState(150);
