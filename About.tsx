@@ -19,7 +19,7 @@ const About: React.FC = () => {
             <RevealOnScroll className="w-full flex justify-center">
               <div className="relative w-full max-w-[300px] aspect-[4/5] md:w-full md:h-[450px] md:max-w-none md:aspect-auto rounded-2xl overflow-hidden shadow-2xl md:transform md:rotate-3 md:hover:rotate-0 transition-all duration-500">
                 <img 
-                  src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?q=80&w=1000&auto=format&fit=crop" 
+                  src="https://image.n.jpg?q=80&w=1000&auto=format&fit=crop" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
@@ -44,12 +44,11 @@ const About: React.FC = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-4">
                 <div className="space-y-2">
                   <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">age :</span> खोइ कति पो हो</p>
-                  <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">phone :</span> +977 9843298530</p>
+                  <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">phone :</span> +977 9864065482</p>
                   <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">email :</span> [email protected]</p>
                 </div>
                 <div className="space-y-2">
-                  <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">place :</span> Kathmandu Nepal</p>
-                  <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">C. place :</span> Bharatpur Chitwan Nepal</p>
+                  <p className="text-gray-700 font-medium flex items-start md:items-center"><span className="text-primary font-bold w-24 shrink-0 inline-block">place :</span> Chitwan Nepal</p>
                 </div>
               </div>
 
